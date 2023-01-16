@@ -6,6 +6,7 @@ import zaid from "../../Assets/Projects/zaid.png";
 import blogs from "../../Assets/Projects/blogs.png";
 import meme from "../../Assets/Projects/meme.png";
 import ec from "../../Assets/Projects/ec.png";
+import ham from "../../Assets/Projects/ham.png";
 import hostel from "../../Assets/Projects/hostel.jpg";
 
 function Projects() {
@@ -25,7 +26,7 @@ function Projects() {
               imgPath={ec}
               isBlog={false}
               title="Election Management System"
-              description="Election managements system that I built for an association called GMSA"
+              description="Election managements system that I built for GMSA using PHP."
               ghLink="https://github.com/hamdani2020/Election_management_software"
              // demoLink="#"
             />
@@ -72,6 +73,16 @@ function Projects() {
               description="This is a personal blogging website for my tech contents."
               //ghLink="#"
               demoLink="https://www.lusitechblog.ga"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ham}
+              isBlog={false}
+              title="HTML and CSS Portfolio Website"
+              description="Portfolio website built with only HTML and CSS with dark mode feature."
+              ghLink="https://github.com/hamdani2020/hamdanialhassan"
+              demoLink="https://hamdani2020.github.io/hamdanialhassan"
             />
           </Col>
         </Row>
