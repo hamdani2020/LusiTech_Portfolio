@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/hero.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,9 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm Alhassan Hamdani Gandi, I.T Enthusiast my love for programming 
-              made me freelancer and to start this Saas company called LusiTech 
-              I.T Consult.
+              I'm Alhassan Hamdani Gandi, I.T Enthusiast, a Freelancer and the founder of LusiTech
+              I.T Consult Saas company.
               <br />
               <br />My most used used programming languages
               <i>
@@ -29,9 +28,9 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building modern &nbsp;
               <i>
-                <b className="purple">Web Development </b> and
+                <b className="purple">Web Development applications</b> and
                 also in areas related to{" "}
                 <b className="purple">
                   HTML, CSS, Python(Django), JavaScript(Reactjs and Nodejs).
@@ -39,16 +38,16 @@ function Home2() {
               </i>
               <br />
               <br />
-              I also build management systems for companies, organizations and startups in <b className="purple">Node.js</b> and
+              I also build management systems for companies, organizations and startups using <b className="purple">PHP</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern PHP and Framework
+                  Python framework
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple">  Laravel</b>
+                <b className="purple">  Django and flask</b>
               </i>
             </p>
           </Col>
@@ -77,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
