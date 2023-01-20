@@ -1,12 +1,14 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
+  DiPython,
   DiJavascript1,
   DiReact,
   DiNodejs,
   DiMysql,
-  DiPython,
   DiGit,
+  DiCss3,
+  DiHtml5
 } from "react-icons/di";
 import {
   SiDjango,
@@ -16,6 +18,9 @@ import {
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
@@ -35,7 +40,10 @@ function Techstack() {
         <SiPhp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiDjango />
