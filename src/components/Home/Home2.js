@@ -17,26 +17,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm Alhassan Hamdani Gandi, I.T Enthusiast, a Freelancer and Alx Software Engineering Students.
-              And as aspiring Fullstack Software Engineer
+              I'm Alhassan Hamdani Gandi, I.T Enthusiast, a Freelancer and Alx Software Engineering Student.
+              And an aspiring Fullstack Software Engineer.
               <br />
-              <br />My most used used programming languages
+              <br />My most used used programming languages are
               <i>
                 <b className="purple"> PHP, Javascript, C and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building modern &nbsp;
+              My field of Interest's are &nbsp;
               <i>
-                <b className="purple">Web Development applications</b> and
-                also in areas related to{" "}
+                <b className="purple">Software development </b> and
+                Web Development{" "} with
                 <b className="purple">
                   HTML, CSS, Python(Django), JavaScript(Reactjs and Nodejs).
                 </b>
               </i>
               <br />
               <br />
-              I am a very good team player and I have good<b className="purple">communication skills</b> and
+              I am a very good team player and I have good<b className="purple"> communication skills</b> and
               <i>
                 <b className="purple">
                   {" "}
