@@ -29,7 +29,7 @@ function Home2() {
               My field of Interest's are &nbsp;
               <i>
                 <b className="purple">Software development </b> and
-                Web Development{" "} with
+                Web Development with{" "}
                 <b className="purple">
                   HTML, CSS, Python(Django), JavaScript(Reactjs and Nodejs).
                 </b>
