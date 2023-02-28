@@ -17,12 +17,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm Alhassan Hamdani Gandi, I.T Enthusiast, a Freelancer and the founder of LusiTech
-              I.T Consult Saas company.
+              I'm Alhassan Hamdani Gandi, I.T Enthusiast, a Freelancer and Alx Software Engineering Students.
+              And as aspiring Fullstack Software Engineer
               <br />
               <br />My most used used programming languages
               <i>
-                <b className="purple"> PHP, Javascript and Python. </b>
+                <b className="purple"> PHP, Javascript, C and Python. </b>
               </i>
               <br />
               <br />
@@ -36,7 +36,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I also build management systems for companies, organizations and startups using <b className="purple">PHP</b> and
+              I am a very good team player and I have good<b className="purple">communication skills</b> and
               <i>
                 <b className="purple">
                   {" "}

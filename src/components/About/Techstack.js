@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiPython,
   DiJavascript1,
@@ -8,7 +9,7 @@ import {
   DiMysql,
   DiGit,
   DiCss3,
-  DiHtml5
+  DiHtml5,
 } from "react-icons/di";
 import {
   SiDjango,
@@ -23,6 +24,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
