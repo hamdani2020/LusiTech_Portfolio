@@ -36,17 +36,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I am a very good team player and I have good<b className="purple"> communication skills</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Python framework
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple">  Django and flask</b>
-              </i>
+              I am a very good team player and I have good<b className="purple"> communication skills.</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
