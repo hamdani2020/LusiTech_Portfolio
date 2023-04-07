@@ -28,7 +28,7 @@ function Projects() {
               title="Election Management System"
               description="Election managements system that I built for GMSA using PHP."
               ghLink="https://github.com/hamdani2020/Election_management_software"
-             // demoLink="#"
+              demoLink="http://gmsaec.rf.gd"
             />
           </Col>
 
